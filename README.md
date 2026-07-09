@@ -36,9 +36,11 @@ The dataset contains passenger information such as PassengerId, Survived, Pclass
 
 - Perform deeper analysis on the dataset.
 - Build a Machine Learning model for survival prediction.
-- Create an interactive dashboard.
-
 ## Author
 
 **Rishit**
+
+Aspiring Python Developer | Building Projects and Learning by Practice
+
+
 
