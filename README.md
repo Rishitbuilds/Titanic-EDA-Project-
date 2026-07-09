@@ -40,7 +40,7 @@ The dataset contains passenger information such as PassengerId, Survived, Pclass
 
 **Rishit**
 
-Aspiring Python Developer | Building Projects and Learning by Practice
+Python Developer | Building Projects and Learning by Practice
 
 
 
