@@ -17,7 +17,7 @@
 ![Histogram](images/histogram.png)
 
 ## Scatter Plot
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](images/Scatter_plot.png)
 
 ## Box Plot
 ![Box Plot](images/box_plot.png)
