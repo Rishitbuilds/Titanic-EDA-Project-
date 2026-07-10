@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is based on the Titanic dataset. The aim of this project was to perform Exploratory Data Analysis (EDA) using Python. I cleaned the dataset, handled missing values, analyzed passenger data, and created different visualizations to understand the dataset better.
+This project is based on the Titanic dataset. The aim of this project is to perform Exploratory Data Analysis (EDA) using Python. It includes data loading, data cleaning, handling missing values, passenger analysis, and data visualization to gain meaningful insights from the dataset.
 
 ## Technologies Used
 
@@ -11,19 +11,32 @@ This project is based on the Titanic dataset. The aim of this project was to per
 - Matplotlib
 - Seaborn
 
+## Concepts Used
+
+- Data Loading & Inspection
+- Data Cleaning
+- Missing Value Handling
+- Duplicate Removal
+- Data Filtering
+- GroupBy & Aggregation
+- Descriptive Statistics
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Bar Chart, Histogram, Scatter Plot, Box Plot)
+- Outlier Detection
+
 ## Dataset
 
-The dataset contains passenger information such as PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin and Embarked.
+The dataset contains passenger information such as PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, and Embarked.
 
 ## What I Did
 
 - Loaded the dataset using Pandas.
 - Checked the first few records and summary.
 - Removed duplicate records.
-- Filled missing values using Median, Mode and Backward Fill.
+- Filled missing values using Median, Mode, and Backward Fill.
 - Filtered first-class passengers.
 - Calculated survival rate by passenger class.
-- Created Bar Chart, Histogram, Scatter Plot and Box Plot.
+- Created Bar Chart, Histogram, Scatter Plot, and Box Plot.
 
 ## Key Observations
 
@@ -36,11 +49,10 @@ The dataset contains passenger information such as PassengerId, Survived, Pclass
 
 - Perform deeper analysis on the dataset.
 - Build a Machine Learning model for survival prediction.
+
 ## Author
 
 **Rishit**
 
 Python Developer | Building Projects and Learning by Practice
-
-
 
